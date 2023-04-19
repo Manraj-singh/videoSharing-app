@@ -32,9 +32,13 @@ Run npm start to start the backend server
 
 ## Features
 - User authentication and authorization using JWT tokens
-- Video uploading, viewing and sharing
+- Video uploading, viewing 
 - Commenting and liking videos
 - video search functionality
+- user gets recommended videos based on videos he clicked
+- showing trending videos 
+- light/dark mode
+
 
 ## Technologies Used
 - React.js
